@@ -1,0 +1,6 @@
+pyinstaller
+streamlit
+google-genai
+pyautogui
+mss
+pillow
